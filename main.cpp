@@ -1,8 +1,3 @@
-// Matrikelnummer: 425702
-// Name: Anurag Satish Chavan
-// Email: kec81syj@rhrk.uni-kl.de
-// Date of Birth : 05.11.1998
-
 /*-----------------------------------------------
 * This C++ program computes the total ticket sales of a concert.
 * There are three types of seating’s:  A, B, and C.
